@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Engineer from Bangladesh</h3>
 
 # 💫 About Me:
-🛠 I’m currently studying at UIU<img align="right" alt="Coding" width= "400" src="https://camo.githubusercontent.com/1e873a45dd12efe006323c57056efb03af72e8994c09ba5ecee27916b9d2be47/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a37513379765349765f7430696f4a2d5a2e676966">
+🛠 I’m currently studying at UIU<img align="right" alt="Coding" width= "300" src="https://github.com/mdyasin399/mdyasin399/blob/main/Sub_Banner2.gif">
 <br><br>🤝 I’m looking to collaborate on<br>Research projects related to Machine Learning, Robotics, and Computer Vision.<br><br>👐 I’m seeking help<br>Finding experienced collaborators for research papers and advanced robotics projects.<br><br>🌱 I’m currently learning<br>Advanced Digital Image Processing, AI-based Object Detection & Tracking, and Data Science techniques.<br><br>💬 Ask me about<br>Robotics, AI in autonomous systems, digital image processing, embedded systems, and Mars Rover projects.<br><br>⚡ Fun fact<br>I built a submarine and developed multiple autonomous robots during my university life!
 
 
