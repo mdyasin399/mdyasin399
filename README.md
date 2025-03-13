@@ -1,5 +1,4 @@
-
-<img align="right" alt="Coding" width= "200" src="https://github.com/user-attachments/assets/7c13f233-6dee-4631-bb43-23baf0933ddc.gif">
+![logo](https://github.com/mdyasin399/mdyasin399/blob/main/GitHub%20Banner%20Md%20Yasin.gif)
 
 <h2 align="center">Hi there 👋, I'm Md Yasin</h2><hr>
 <h3 align="center">A passionate Data Engineer from Bangladesh</h3>
