@@ -3,8 +3,8 @@
 <h2 align="center">Hi there 👋, I'm Md Yasin</h2>
 <h3 align="center">A passionate Data Engineer from Bangladesh</h3>
 
-# 💫 About Me:<img align="right" alt="Coding" width= "400" src="https://github.com/mdyasin399/mdyasin399/blob/main/Sub_Banner2.gif">
-🛠 I’m currently studying at UIU
+# 💫 About Me:
+🛠 I’m currently studying at UIU<img align="right" alt="Coding" width= "400" src="https://github.com/mdyasin399/mdyasin399/blob/main/Sub_Banner1.gif">
 <br><br>🤝 I’m looking to collaborate on<br>Research projects related to Machine Learning, Robotics, and Computer Vision.<br><br>👐 I’m seeking help<br>Finding experienced collaborators for research papers and advanced robotics projects.<br><br>🌱 I’m currently learning<br>Advanced Digital Image Processing, AI-based Object Detection & Tracking, and Data Science techniques.<br><br>💬 Ask me about<br>Robotics, AI in autonomous systems, digital image processing, embedded systems, and Mars Rover projects.<br><br>⚡ Fun fact<br>I built a submarine and developed multiple autonomous robots during my university life!
 
 
